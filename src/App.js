@@ -4,6 +4,9 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
+      <div classname="container">
+
+
    <h1> React Weather Project </h1>
     <footer>
       This Project was coded by Laura Ellington and open-sourced on{" "} 
@@ -11,6 +14,7 @@ export default function App() {
      Github
     </a>
     </footer>
+    </div>
     </div>
   );
 }

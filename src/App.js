@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div classname="container">
 
-   <Weather />
+   <Weather  defaultCity="Perth"/>
     <footer>
       This Project was coded by Laura Ellington and open-sourced on{" "} 
     <a href="https://github.com/someblonde/react-weather-project" target="_blank" rel="noreferrer">

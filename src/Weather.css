@@ -2,7 +2,7 @@
 
 .Weather{
     font-family: Arial, Helvetica, sans-serif;
-    border: 2px solid #b2c7f4;
+    border: 2px solid #f2b0e4;
     border-radius: 4px;
     padding: 16px;
     color: rgb(135, 135, 135);
@@ -13,6 +13,7 @@
   font-weight: 100;
   margin: 20px 0 0 0;
   line-height: 29px;
+  color: #6565b9;
 
 }
 
@@ -58,3 +59,8 @@
 
 }
 
+.btn-success {
+  background-color: #f2b0e4;
+  border-color: #f2b0e4;
+
+}

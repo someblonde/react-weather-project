@@ -5,9 +5,9 @@ import Weather from "./Weather";
 export default function App() {
   return (
     <div className="App">
-      <div classname="container">
+      <div className="container">
 
-   <Weather  defaultCity="Perth"/>
+   <Weather  defaultCity="Reykjavik"/>
     <footer>
       This Project was coded by Laura Ellington and open-sourced on{" "} 
     <a href="https://github.com/someblonde/react-weather-project" target="_blank" rel="noreferrer">

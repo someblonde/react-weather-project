@@ -1,11 +1,18 @@
 import React from "react";
 import './App.css';
 import Weather from "./Weather";
+import background from "./Images/landscape2-zandra.jpg"
 
 export default function App() {
   return (
+    
     <div className="App">
       <div className="container">
+               <div style={{ backgroundImage: `url(${background})` }}>
+      
+    
+   
+        
 
    <Weather  defaultCity="Reykjavik"/>
     <footer>
@@ -14,6 +21,7 @@ export default function App() {
      Github
     </a>
     </footer>
+    </div>
     </div>
     </div>
   );

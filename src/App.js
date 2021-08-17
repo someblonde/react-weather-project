@@ -9,7 +9,7 @@ export default function App() {
 
    <Weather  defaultCity="Reykjavik"/>
     <footer>
-      This Project was coded by Laura Ellington and open-sourced on{" "} 
+      This Project was coded by Laura E and open-sourced on{" "} 
     <a href="https://github.com/someblonde/react-weather-project" target="_blank" rel="noreferrer">
      Github
     </a>
